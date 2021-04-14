@@ -1,2 +1,5 @@
 .idea/
 *.pdf
+*.ipynb
+venv/
+*/main.py
